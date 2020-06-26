@@ -32,7 +32,7 @@ public class EncodingFilter implements Filter {
 	@Override
 	public void init(FilterConfig arg0) throws ServletException {
 		// TODO 自動生成されたメソッド・スタブ
-		System.out.println("EncodingFilterが生成されました");
+		System.out.println("みあEncodingFilterが生成されました");
 	}
 
 }
